@@ -1,0 +1,12 @@
+{
+  "name": "Audeum 시설 보수 기록부",
+  "short_name": "Audeum",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    { "src": "audeum_icon_192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "audeum_icon_512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
